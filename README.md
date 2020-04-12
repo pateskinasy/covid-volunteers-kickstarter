@@ -2,7 +2,6 @@
 
 [![CircleCI build status](https://img.shields.io/cirrus/github/helpwithcovid/covid-volunteers?style=plastic)](https://circleci.com/gh/helpwithcovid/covid-volunteers)
 
-This repository stores the code for the https://helpwithcovid.com/ website.
 
 The stack is:
 
@@ -63,7 +62,6 @@ rails spec
 
 # Contributing
 
-Help is welcome! We are communicating on [Discord](https://discord.gg/8nAJfFN) in the #hwc-com-development channel
 
 1. Fork the project
 1. Create a branch with your changes
